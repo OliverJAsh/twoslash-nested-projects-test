@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "twoslash-cli": "^1.3.17",
+    "typescript": "^4.5.4"
+  }
+}

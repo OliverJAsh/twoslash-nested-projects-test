@@ -1,0 +1,4 @@
+/node_modules/
+/target/
+/posts/*/render/
+/posts/*/node_modules/
